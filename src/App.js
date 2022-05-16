@@ -14,5 +14,5 @@ const Main = styled.div`
   align-items: center;
   height: 100vh;
   width: 100vw;
-  font-size: 100px;
+  font-size: 50px;
 `
